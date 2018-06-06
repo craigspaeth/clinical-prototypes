@@ -1,0 +1,28 @@
+{
+  "name": "cliniko-prototype",
+  "version": "1.0.0",
+  "description": "Playing with an API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node -r dotenv/config ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigspaeth/cliniko-prototype.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/craigspaeth/cliniko-prototype/issues"
+  },
+  "homepage": "https://github.com/craigspaeth/cliniko-prototype#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "jsforce": "^1.8.4",
+    "koa": "^2.5.1",
+    "koa-route": "^3.2.0",
+    "standard": "^11.0.1",
+    "superagent": "^3.8.3"
+  }
+}
