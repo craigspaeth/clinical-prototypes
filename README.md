@@ -1,2 +1,2 @@
-# cliniko-prototype
-Playing with an API
+# clinical-prototypes
+Playing with healthcare APIs
